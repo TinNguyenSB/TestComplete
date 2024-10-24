@@ -13,7 +13,7 @@ pipeline {
             steps {
                 script {
                     testcompletetest accessKeyId: 'de9ee6b1-7d8d-46ed-ad5d-210b6111b71c', 
-                    credentialsId: 'ab380121-bbbf-4b2c-8f86-197b2c1c82ba', 
+                    credentialsId: '4db0d47a-ff2f-4028-a41f-c5f3a3785b07', 
                     launchType: 'lcProject',
                     project: 'TestProject_Web',
                     suite: 'MyProjectSuite\\MyProjectSuite.pjs',
