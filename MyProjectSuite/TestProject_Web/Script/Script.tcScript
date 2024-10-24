@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="BrowserHandler" key="{1E3D05AB-97D5-4D3A-9006-A28A9A65FF61}" path="BrowserHandler.js" />
+	</children>
+</Root>
