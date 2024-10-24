@@ -16,10 +16,10 @@ pipeline {
                     credentialsId: 'ab380121-bbbf-4b2c-8f86-197b2c1c82ba', 
                     executorType: 'TE', 
                     generateMHT: true, 
-                    sessionScreenResolution: '1920x1080', 
+                    // sessionScreenResolution: '1920x1080', 
                     suite: 'MyProjectSuite\\MyProjectSuite.pjs', 
-                    useTCService: true,
-                    useActiveSession: false
+                    // useTCService: true,
+                    // useActiveSession: false
                 }
             }
         }
