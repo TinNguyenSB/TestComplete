@@ -17,7 +17,7 @@ pipeline {
                     executorType: 'TE', 
                     generateMHT: true, 
                     // sessionScreenResolution: '1920x1080', 
-                    suite: 'MyProjectSuite\\MyProjectSuite.pjs', 
+                    suite: 'MyProjectSuite\\MyProjectSuite.pjs'
                     // useTCService: true,
                     // useActiveSession: false
                 }
