@@ -21,7 +21,7 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{3174D8EA-1775-4858-B31D-16D81A21F7C7}"/>
+				<Prp name="activity" type="S" value="{60830089-5534-4A56-A873-58AD582DFFF5}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
@@ -149,7 +149,6 @@
 				<Node name="myprojectsuite">
 					<Node name="testproject_web">
 						<Node name="keywordtests"/>
-						<Node name="script"/>
 					</Node>
 				</Node>
 			</Node>

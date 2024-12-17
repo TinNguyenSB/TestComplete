@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Checkout code from your source control
+                // Checkout code from your source control. 
                 git branch: 'TC-107874', 
                 credentialsId: 'f202f496-790d-495b-996f-5593b614572a', 
                 url: 'https://github.com/TinNguyenSB/TestComplete.git' 
