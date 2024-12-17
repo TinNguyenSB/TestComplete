@@ -21,6 +21,7 @@ pipeline {
 					suite: 'MyProjectSuite\\MyProjectSuite.pjs', 
 					useActiveSession: false, 
 					useTCService: true
+                }
             }
         }
     }
