@@ -6,5 +6,10 @@
 		<child name="Test_Case_003" key="{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" path="Test_Case_003.tcKDTest" />
 		<child name="Test_Case_004" key="{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" path="Test_Case_004.tcKDTest" />
 		<child name="Test_Case_005" key="{DB59E5E7-B47D-4539-A91A-5046A3B58824}" path="Test_Case_005.tcKDTest" />
+		<child name="Test_Case_006" key="{18A23265-50D7-49E2-AE24-A63FD6936667}" path="Test_Case_006.tcKDTest" />
+		<child name="Test_Case_007" key="{3174D8EA-1775-4858-B31D-16D81A21F7C7}" path="Test_Case_007.tcKDTest" />
+		<child name="Test_Case_008" key="{A734E3BA-363B-4E16-BA70-CF2AE74EAB64}" path="Test_Case_008.tcKDTest" />
+		<child name="Test_Case_009" key="{DE255387-F8BB-4ED0-83B0-5260CD368E14}" path="Test_Case_009.tcKDTest" />
+		<child name="Test_Case_010" key="{ABDC6A23-911D-4A77-8472-3237D9E85990}" path="Test_Case_010.tcKDTest" />
 	</children>
 </Root>
