@@ -19,7 +19,7 @@ pipeline {
 					credentialsId: '4db0d47a-ff2f-4028-a41f-c5f3a3785b07', 
 					executorType: 'TC', 
 					suite: 'MyProjectSuite\\MyProjectSuite.pjs', 
-					useActiveSession: false, 
+					useActiveSession: true, 
 					useTCService: true
             }
         }
