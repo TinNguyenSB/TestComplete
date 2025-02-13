@@ -137,6 +137,9 @@
 						<Node name="script"/>
 					</Node>
 				</Node>
+				<Node name="myprojectsuite logs">
+					<Node name="testproject_web logs"/>
+				</Node>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>

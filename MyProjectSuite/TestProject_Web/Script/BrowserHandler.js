@@ -1,6 +1,6 @@
 ﻿function OpenBrowserWithOpts1(){
-  Browsers.Item("chrome").RunOptions = "--disable-sync --no-first-run --disable-popup-blocking";
-  Browsers.Item("chrome").Run();
+  Browsers.Item("edge").RunOptions = "--disable-sync --no-first-run --disable-popup-blocking";
+  Browsers.Item("edge").Run();
   Sys.Browser().BrowserWindow(0).Maximize();
 }
 
