@@ -257,10 +257,11 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{fc9c0755-2819-4b25-8964-06a87b81e1ad}">
-				<Node name="myprojectsuite"/>
-				<Node name="myprojectsuite logs">
-					<Node name="testproject_web logs"/>
+				<Node name="myprojectsuite">
+					<Node name="testproject_web"/>
+					<Node name="testproject-bdd"/>
 				</Node>
+				<Node name="myprojectsuite logs"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
