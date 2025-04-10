@@ -18,26 +18,26 @@
 				<environments activeCloud="CBT" />
 				<children />
 			</testItem>
-			<testItem name="Test_Case_003" key="{7D999B4D-28ED-44F1-BC08-2B7274A89347}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Test_Case_003" key="{7D999B4D-28ED-44F1-BC08-2B7274A89347}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
-				<environments activeCloud="CBT" />
+				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="Test_Case_004" key="{4797FA37-6049-4BD7-85CA-0692C11E148A}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Test_Case_004" key="{4797FA37-6049-4BD7-85CA-0692C11E148A}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
-				<environments activeCloud="CBT" />
+				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
-			<testItem name="Test_Case_005" key="{841D9970-FB50-48E5-AB8F-EE90231E79AD}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{DB59E5E7-B47D-4539-A91A-5046A3B58824}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Test_Case_005" key="{841D9970-FB50-48E5-AB8F-EE90231E79AD}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{DB59E5E7-B47D-4539-A91A-5046A3B58824}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
-				<environments activeCloud="CBT" />
+				<environments activeCloud="SWT" />
 				<children />
 			</testItem>
 		</children>
 	</testItems>
 	<variables key="{98046EC9-76F3-4424-833A-377B2DA77C88}" />
 	<settings key="{11C37B88-6D33-420B-B86D-B54C573053A6}">
-		<settingsVersion value="15.72" />
+		<settingsVersion value="15.74" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
 		<setting name="ApplicationHangingProcessFilterMode" type="6" rowIndex="4" colIndex="0">
 			<columns>
