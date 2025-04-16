@@ -8,30 +8,20 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{7B0D30AD-31B9-42CD-8181-D77E5046CE50}" version="14">
 		<children>
-			<testItem name="Test_Case_001" key="{1200185F-31CC-41F5-84F3-45F523D80139}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{FB7DA8AD-6094-41B6-935C-E1A1A8B6C2C5}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="KDT-PASSED" key="{F666DD62-61B3-4B38-B05A-6780C8EEAEE7}" group="True" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
-				<environments activeCloud="SWT" />
-				<children />
-			</testItem>
-			<testItem name="Test_Case_002" key="{63E03CF4-FE8A-4FC9-A805-732859FEBA15}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{C72325CB-EAC3-4AAD-BD71-A0B080C4350A}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="CBT" />
-				<children />
-			</testItem>
-			<testItem name="Test_Case_003" key="{7D999B4D-28ED-44F1-BC08-2B7274A89347}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="SWT" />
-				<children />
-			</testItem>
-			<testItem name="Test_Case_004" key="{4797FA37-6049-4BD7-85CA-0692C11E148A}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="SWT" />
-				<children />
-			</testItem>
-			<testItem name="Test_Case_005" key="{841D9970-FB50-48E5-AB8F-EE90231E79AD}" group="False" parallel="False" enabled="False" load="False" testMoniker="KDT\{DB59E5E7-B47D-4539-A91A-5046A3B58824}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
-				<testParameters />
-				<environments activeCloud="SWT" />
-				<children />
+				<children>
+					<testItem name="KDT_Test_Case_001" key="{0B60A9B0-ED07-4563-94BE-114BC0B9AF7E}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{FB7DA8AD-6094-41B6-935C-E1A1A8B6C2C5}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+					<testItem name="KDT_Test_Case_002" key="{EB3C1920-D06F-40A6-80CF-C0B78A8F54E3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{C72325CB-EAC3-4AAD-BD71-A0B080C4350A}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+				</children>
 			</testItem>
 		</children>
 	</testItems>

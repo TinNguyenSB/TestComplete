@@ -2,5 +2,6 @@
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
 		<child name="BrowserHandler" key="{1E3D05AB-97D5-4D3A-9006-A28A9A65FF61}" path="BrowserHandler.js" />
+		<child name="Script_Test_Case_001" key="{A6F49FB5-484E-4051-AF5F-6BBCB23C1B5A}" path="Script_Test_Case_001.js" />
 	</children>
 </Root>

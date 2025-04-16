@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
-		<child name="Test_Case_001" key="{FB7DA8AD-6094-41B6-935C-E1A1A8B6C2C5}" path="Test_Case_001.tcKDTest" />
-		<child name="Test_Case_002" key="{C72325CB-EAC3-4AAD-BD71-A0B080C4350A}" path="Test_Case_002.tcKDTest" />
-		<child name="Test_Case_003" key="{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" path="Test_Case_003.tcKDTest" />
-		<child name="Test_Case_004" key="{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" path="Test_Case_004.tcKDTest" />
-		<child name="Test_Case_005" key="{DB59E5E7-B47D-4539-A91A-5046A3B58824}" path="Test_Case_005.tcKDTest" />
+		<child name="KDT_Test_Case_001" key="{FB7DA8AD-6094-41B6-935C-E1A1A8B6C2C5}" path="KDT_Test_Case_001.tcKDTest" />
+		<child name="KDT_Test_Case_002" key="{C72325CB-EAC3-4AAD-BD71-A0B080C4350A}" path="KDT_Test_Case_002.tcKDTest" />
+		<child name="KDT_Test_Case_003" key="{D9C2DFD7-DA5D-4BC8-B9E3-F750765BA638}" path="KDT_Test_Case_003.tcKDTest" />
+		<child name="KDT_Test_Case_004" key="{7D7F9353-1622-42E1-9D2B-DD353A41ABE9}" path="KDT_Test_Case_004.tcKDTest" />
+		<child name="KDT_Test_Case_005" key="{DB59E5E7-B47D-4539-A91A-5046A3B58824}" path="KDT_Test_Case_005.tcKDTest" />
 	</children>
 </Root>
