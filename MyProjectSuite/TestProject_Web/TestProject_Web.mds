@@ -23,6 +23,16 @@
 					</testItem>
 				</children>
 			</testItem>
+			<testItem name="SCRIPT-PASSED" key="{75D5FB3D-BA2E-46FB-ABD2-7A1254E52D97}" group="True" parallel="False" enabled="True" load="False" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<children>
+					<testItem name="Script_Test_Case_001" key="{FAE699C1-2830-43FB-9AD6-BC3373C57E5F}" group="False" parallel="False" enabled="True" load="False" testMoniker="{A6F49FB5-484E-4051-AF5F-6BBCB23C1B5A}Script_Test_Case_001" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+						<testParameters />
+						<environments activeCloud="CBT" />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{98046EC9-76F3-4424-833A-377B2DA77C88}" />
