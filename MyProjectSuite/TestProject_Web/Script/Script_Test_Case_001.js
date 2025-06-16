@@ -9,6 +9,11 @@ function Script_Test_Case_001()
   Browsers.CurrentBrowser.Navigate("https://bearstore-testsite.smartbear.com/");
   //Checks whether the 'contentText' property of the Aliases.browser.pageShop.sectionContent.textnodeWelcomeToOurStore object equals 'Welcome to our store.'.
   aqObject.CheckProperty(Aliases.browser.pageShop.sectionContent.textnodeWelcomeToOurStore, "contentText", cmpEqual, "Welcome to our store.");
-  //Closes the 'BrowserWindow' window.
+ //Closes the 'BrowserWindow' window.
+  logTheParamFromJenkins(Project.Variables.var_Environment)
   Aliases.browser.BrowserWindow.Close();
+}
+
+function logTheParamFromJenkins(Environment){
+  Log.Message("This is the environment var: " + Environment)
 }

@@ -35,7 +35,15 @@
 			</testItem>
 		</children>
 	</testItems>
-	<variables key="{98046EC9-76F3-4424-833A-377B2DA77C88}" />
+	<variables key="{98046EC9-76F3-4424-833A-377B2DA77C88}">
+		<data Version="4">
+			<Items>
+				<Variable Name="var_Environment" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
 	<settings key="{11C37B88-6D33-420B-B86D-B54C573053A6}">
 		<settingsVersion value="15.74" />
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
